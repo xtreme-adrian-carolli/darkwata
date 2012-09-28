@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;com.example.xlgame.MainActivity&apos; to &apos;com.example.xlgame.XLGame&apos;" description="Rename resource &apos;com.example.xlgame.MainActivity&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/com.example.xlgame.MainActivity" name="com.example.xlgame.XLGame" stamp="1348870559086" updateReferences="true"/>
+</session>

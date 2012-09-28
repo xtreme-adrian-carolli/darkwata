@@ -1,0 +1,22 @@
+package com.example.xlgame;
+
+public class MainThread extends Thread{
+
+	private boolean running;
+
+	public boolean isRunning() {
+		return running;
+	}
+
+	public void setRunning(boolean running) {
+		this.running = running;
+	}
+	
+	public void run()
+	{
+		while (running)
+		{
+			
+		}
+	}
+}
